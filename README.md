@@ -1,2 +1,3 @@
 # baikunthgddCovid19
-Reserch purposes
+Research purposes
+Ph.D scholar
